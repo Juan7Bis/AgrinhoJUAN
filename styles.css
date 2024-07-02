@@ -49,6 +49,11 @@ input {
     height: 100%;
 }
 
+.slide:nth-child(1) {
+    background-image: url("./Imagens/agrinho1.jpg");
+    /* # 43 99196 3238 */
+}
+
 .slide {
     width: 20%;
     transition: .6s;
